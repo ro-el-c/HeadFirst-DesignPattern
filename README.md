@@ -1,9 +1,8 @@
 # HeadFirst-DesignPattern
-### [헤드퍼스트 디자인패턴](http://www.yes24.com/Product/Goods/108192370) 내용, 개념 정리 <br><br>
+### [헤드퍼스트 디자인패턴](http://www.yes24.com/Product/Goods/108192370) 요약 및 실습 <br><br>
 
-<img width="294" alt="HeadFirst-DesignPattern" src="https://user-images.githubusercontent.com/76640167/210064651-ec3da0a9-a4f8-4a74-9eb7-9a5e17d4dcfa.png">
-
-<br/>
+<img width="300" alt="headfirst-designpatter" src="https://github.com/ro-el-c/HeadFirst-DesignPattern/assets/96233738/b09190ca-87ab-4d49-b051-afe70a650665">
+<br><br>
 
 > ## 목차
 1. [디자인 패턴 소개와 전략 패턴](https://github.com/ro-el-c/HeadFirst-DesignPattern/tree/main/ch1_StrategyPattern)
