@@ -10,11 +10,11 @@ public abstract class Duck {
     public Duck(){}
     public  abstract void display();
     public void performFly() {
-        flyBehavior.fly();
+        flyBehavior.fly(); // 행동 클래스에 위임
     }
 
     public void performQuack( ){
-        quackBehavior.quack();
+        quackBehavior.quack(); // 행동 클래스에 위임
     }
 
     public void swim() {
