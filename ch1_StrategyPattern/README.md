@@ -1,6 +1,6 @@
 # 전략 패턴 (Strategy Pattern)
 
-### 디자인 패턴 소개와 전략 패턴
+### ch1 디자인 패턴 소개와 전략 패턴
 
 자세한 정리는 [Tistory](https://roel-yomojomo.tistory.com/entry/HeadFirst-strategy-pattern)에 게시하였습니다.
 
