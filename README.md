@@ -6,7 +6,7 @@
 
 > ## 목차
 1. [디자인 패턴 소개와 전략 패턴](https://github.com/ro-el-c/HeadFirst-DesignPattern/tree/main/ch1_StrategyPattern)
-2. 옵저버 패턴
+2. [옵저버 패턴](https://github.com/ro-el-c/HeadFirst-DesignPattern/tree/main/ch2_ObserverPattern)
 3. 데코레이터 패턴
 4. 팩토리 패턴
 5. 싱글톤 패턴
