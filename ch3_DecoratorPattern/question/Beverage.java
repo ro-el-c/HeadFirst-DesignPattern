@@ -1,6 +1,6 @@
 package question;
 
-public abstract class Baverage {
+public abstract class Beverage {
     String description = "Unknown Beverage";
     Boolean milk = false;
     Boolean soy = false;

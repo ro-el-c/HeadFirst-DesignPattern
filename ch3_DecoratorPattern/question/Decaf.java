@@ -1,6 +1,6 @@
 package question;
 
-public class Decaf extends Baverage {
+public class Decaf extends Beverage {
     @Override
     public double cost() {
         return 0;
