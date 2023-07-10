@@ -7,6 +7,6 @@ public class Latte extends Beverage {
 
     @Override
     public double cost() {
-        return 2.90;
+        return super.cost() + 2.90;
     }
 }
