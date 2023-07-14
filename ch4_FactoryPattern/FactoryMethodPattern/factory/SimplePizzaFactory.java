@@ -1,3 +1,4 @@
+/*
 package FactoryMethodPattern.factory;
 
 import FactoryMethodPattern.pizza.CheesePizza;
@@ -19,4 +20,4 @@ public class SimplePizzaFactory {
 
         return pizza;
     }
-}
+}*/

@@ -1,3 +1,4 @@
+/*
 package FactoryMethodPattern.pizza;
 
 public class CheesePizza implements Pizza {
@@ -21,3 +22,4 @@ public class CheesePizza implements Pizza {
 
     }
 }
+*/
