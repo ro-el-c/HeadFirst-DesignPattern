@@ -1,4 +1,4 @@
-package FactoryMethodPattern;
+package FactoryMethodPattern.pizza;
 
 public interface Pizza {
     void prepare();

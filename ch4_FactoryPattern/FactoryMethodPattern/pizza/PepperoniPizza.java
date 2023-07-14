@@ -1,6 +1,6 @@
-package FactoryMethodPattern;
+package FactoryMethodPattern.pizza;
 
-public class CheesePizza implements Pizza {
+public class PepperoniPizza implements Pizza {
     @Override
     public void prepare() {
 

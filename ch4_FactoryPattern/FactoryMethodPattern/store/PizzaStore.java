@@ -1,6 +1,9 @@
-package FactoryMethodPattern;
+package FactoryMethodPattern.store;
 
-public class PizzaStore {
+import FactoryMethodPattern.factory.SimplePizzaFactory;
+import FactoryMethodPattern.pizza.Pizza;
+
+public abstract class PizzaStore {
     SimplePizzaFactory factory;
 
     public PizzaStore(SimplePizzaFactory factory) {

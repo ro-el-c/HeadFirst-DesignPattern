@@ -1,4 +1,9 @@
-package FactoryMethodPattern;
+package FactoryMethodPattern.factory;
+
+import FactoryMethodPattern.pizza.CheesePizza;
+import FactoryMethodPattern.pizza.GreekPizza;
+import FactoryMethodPattern.pizza.PepperoniPizza;
+import FactoryMethodPattern.pizza.Pizza;
 
 public class SimplePizzaFactory {
     public Pizza createPizza(String type) {

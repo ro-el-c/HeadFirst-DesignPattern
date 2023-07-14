@@ -1,4 +1,4 @@
-package FactoryMethodPattern;
+package FactoryMethodPattern.pizza;
 
 public class GreekPizza implements Pizza {
     @Override
